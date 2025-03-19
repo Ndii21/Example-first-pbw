@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+
+body {
+  padding: 0 100px;
+  margin-inline: 200px;
+}
+
+
+
+* {
+  font-family: "Poppins", serif;
+}
+
+.category {
+  text-align: center;
+  font-size: 10px;
+  padding-top: 10px;
+}
+
+ol li a {
+  text-decoration: none;
+  color: blue;
+}
+
+H1 {
+  text-align: center;
+}
+
+.nama {
+  text-align: center;
+  font-size: 10px;
+  margin-top: -20px;
+}
+
+h3 {
+  padding-left: 15px;
+}
+
+h2 {
+  padding-left: 15px;
+  font-size: 27px;
+}
+
+p {
+  padding-left: 15px;
+  text-align: justify;
+}
+
+span {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.Lyons {
+  font-size: 10px;
+  color: grey;
+  margin-top: -15px;
+}

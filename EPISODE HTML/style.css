@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+.merah {
+    font-style: normal;
+}
+
+P{
+    font-size: 25px;
+    color:blue;
+}
+
+#biru{
+    font-size: larger;
+}
+
+[title]{
+    color: orange;
+}
+
+a:hover{
+    color: aqua;
+}

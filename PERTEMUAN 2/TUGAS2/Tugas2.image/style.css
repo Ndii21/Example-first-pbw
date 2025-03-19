@@ -1,0 +1,41 @@
+.iguana {
+    width: 180px;
+    height: auto;
+    border-radius: 0;
+    margin: 20px;
+}
+
+.wolf {
+    width: 270px;
+    height: auto;
+    border-radius: 0;
+    margin: 20px;
+}
+
+.bear {
+    width: 200px;
+    height: auto;
+    border-radius: 0;
+    margin: 20px;
+}
+
+.cat {
+    width: 200px;
+    height: auto;
+    border-radius: 0;
+    margin: 20px;
+}
+
+.dog {
+    width: 200px;
+    height: auto;
+    border-radius: 0;
+    margin: 20px;
+}
+
+.fox {
+    width: 200px;
+    height: auto;
+    border-radius: 0;
+    margin: 20px;
+}
